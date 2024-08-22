@@ -1,5 +1,8 @@
 Welcome to <strong>SwapShop</strong> - the student-to-student platform for <em>buying</em> and <em>selling</em> books and study materials!
 
+![image](https://github.com/user-attachments/assets/ddd78728-136b-462f-8b48-5f6cbf71fac8)
+
+
 We understand that being a student can be expensive, and textbooks and study materials can quickly add up. SwapShop was created to provide an affordable and convenient solution for students to <strong>exchange</strong> study materials with each other, allowing everyone to <strong>save money</strong> and access the resources they need to <strong>succeed</strong>.
 
 Here's how it works:
